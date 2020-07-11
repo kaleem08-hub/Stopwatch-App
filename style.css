@@ -1,0 +1,64 @@
+html{
+    height: 100%;
+    background: url(kevin-maillefer-f1fUq0H-Sq8-unsplash.jpg)no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    opacity: 0.9;
+    font-family: 'Philosopher', sans-serif;
+    color: white;
+}
+body{
+    color: indianred;
+    text-align: center;
+}
+
+h2{
+    color: black;
+    text-align: center;
+    display: inline-block;
+    width: 200px;
+    background-color: white;
+    opacity: 0.7;
+    text-align: center;
+    margin: auto;
+}
+
+
+.btn{
+    width:200px;
+    margin: 1px;
+    background-color:#F2F3F4;
+    color:black;
+    border: none;
+    outline: none;
+    font-family: 'Philosopher', sans-serif;
+    border-radius: 12px;
+    box-shadow: 1px 1px 1px 1px dodgerblue ;
+    opacity: 0.9;
+    text-align: center;
+    margin: auto;
+
+}
+.btn:hover{
+    background-color: deepskyblue;
+    color: #fff;
+    cursor: pointer;
+}
+
+
+.footer{
+    color: indianred;
+    text-align: right;
+    font-family: 'Philosopher', sans-serif;
+    font-weight: bolder;
+    font-size: 22px;
+}
+
+
+@media (max-width: 600px) {
+}
+
+@media (min-width: 601px) {
+}
